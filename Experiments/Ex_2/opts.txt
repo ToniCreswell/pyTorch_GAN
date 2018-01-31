@@ -1,0 +1,12 @@
+batchSize=32
+ commit='f8dd3f0'
+ fSize=64
+ gpuNo=0
+ imSize=64
+ lr=0.0002
+ maxEpochs=100
+ nz=100
+ outDir='../../ExperimentsSHOES'
+ pi=0.5
+ root='/data/datasets/'
+ useNoise=True

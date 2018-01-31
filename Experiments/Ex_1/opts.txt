@@ -1,0 +1,12 @@
+batchSize=128
+ commit='f8dd3f0'
+ fSize=64
+ gpuNo=4
+ imSize=128
+ lr=0.0002
+ maxEpochs=200
+ nz=100
+ outDir='../../ExperimentsSHOES'
+ pi=0.5
+ root='/vol/biomedic2/ac2211/data/'
+ useNoise=True
