@@ -14,6 +14,8 @@ or
 Run the jupyter notebooks to get the data tensors xTrain.npy and yTrain.npy and move them in to folder InData/SHOES/
 5. The code may be run from cmd line with various options detailed in the code
 
+$ python dcgan_shoes.py --maxEpochs=100 --root=InData/ --batchSize=32 --useNoise --imSize=64 --commit=xxx
+
 
 ## Example results:
 
